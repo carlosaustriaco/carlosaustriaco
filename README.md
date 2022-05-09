@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Carlos Gabriel and I am a software engineer at [Nelogica](https://www.linkedin.com/company/nelogica/mycompany/verification/). I have experience in programming for over 5 years in several languages and frameworks. This page is to show some of my projects portfolio that could show some of my knowledges and help other people in learning some technologies.
+
 <!--
 **carlosaustriaco/carlosaustriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
