@@ -7,7 +7,7 @@ Python Projects:
 
  <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jonathankamau/count.svg" />
+  <img src="https://profile-counter.glitch.me/carlosaustriaco/count.svg" />
 </p>
 
 <!--
