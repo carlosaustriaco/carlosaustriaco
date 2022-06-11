@@ -5,6 +5,11 @@ My name is Carlos Gabriel and I am a software engineer at [Nelogica](https://www
 Python Projects:
 - [PySnake](https://github.com/carlosaustriaco/PySnake)
 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jonathankamau/count.svg" />
+</p>
+
 <!--
 **carlosaustriaco/carlosaustriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
