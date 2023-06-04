@@ -6,7 +6,7 @@ Python Projects:
 - [PySnake](https://github.com/carlosaustriaco/PySnake)
 
 C# Projects:
-- [Academy Registration]
+- [Academy Registration](https://github.com/carlosaustriaco/Academy)
 
  <p align="center"> 
   Visitor count<br>
