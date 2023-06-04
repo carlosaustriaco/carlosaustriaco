@@ -5,6 +5,9 @@ My name is Carlos Gabriel and I am a software engineer at [Nelogica](https://www
 Python Projects:
 - [PySnake](https://github.com/carlosaustriaco/PySnake)
 
+C# Projects:
+- [Academy Registration]
+
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/carlosaustriaco/count.svg" />
