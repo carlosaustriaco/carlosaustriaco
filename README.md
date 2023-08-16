@@ -5,9 +5,6 @@ My name is Carlos Gabriel and I am a software engineer at [Nelogica](https://www
 Python Projects (on-going):
 - [PySnake](https://github.com/carlosaustriaco/PySnake)
 
-C# Projects (on-going):
-- [Academy Registration](https://github.com/carlosaustriaco/Academy)
-
 Exercism codes:
 - [C](https://github.com/carlosaustriaco/Exercism/tree/master/C)
 - [C#](https://github.com/carlosaustriaco/Exercism/tree/master/C%23)
