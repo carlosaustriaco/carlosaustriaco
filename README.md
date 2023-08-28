@@ -15,6 +15,9 @@ Exercism codes:
   <img src="https://profile-counter.glitch.me/carlosaustriaco/count.svg" />
 </p>
 
+Other Projects:
+-  [Tic-Tac-Toe](https://github.com/carlosaustriaco/Tic-Tac-Toe)
+
 <!--
 **carlosaustriaco/carlosaustriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
