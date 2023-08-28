@@ -10,14 +10,13 @@ Exercism codes:
 - [C#](https://github.com/carlosaustriaco/Exercism/tree/master/C%23)
 - [Javascript](https://github.com/carlosaustriaco/Exercism/tree/master/Javascript)
 
+Other Projects:
+-  [Tic-Tac-Toe](https://github.com/carlosaustriaco/Tic-Tac-Toe)
+
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/carlosaustriaco/count.svg" />
 </p>
-
-Other Projects:
--  [Tic-Tac-Toe](https://github.com/carlosaustriaco/Tic-Tac-Toe)
-
 <!--
 **carlosaustriaco/carlosaustriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
