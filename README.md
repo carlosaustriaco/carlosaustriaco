@@ -2,17 +2,6 @@
 
 My name is Carlos Gabriel and I am a software engineer at [Nelogica](https://www.linkedin.com/company/nelogica/mycompany/verification/). I have experience in programming for over 5 years in several languages and frameworks. This page is to show some of my projects portfolio that could show some of my knowledges and help other people in learning some technologies.
 
-Python Projects (on-going):
-- [PySnake](https://github.com/carlosaustriaco/PySnake)
-
-Exercism codes:
-- [C](https://github.com/carlosaustriaco/Exercism/tree/master/C)
-- [C#](https://github.com/carlosaustriaco/Exercism/tree/master/C%23)
-- [Javascript](https://github.com/carlosaustriaco/Exercism/tree/master/Javascript)
-
-Other Projects:
--  [Tic-Tac-Toe](https://github.com/carlosaustriaco/Tic-Tac-Toe)
-
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/carlosaustriaco/count.svg" />
