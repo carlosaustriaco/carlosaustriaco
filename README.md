@@ -4,9 +4,8 @@ I'm a **Control and Automation Engineer** with **5+ years of programming experie
 
 I enjoy building software to solve real-world problems, especially at the intersection of **data analysis, automation, and public finance**.
 
-### 🔨 What I'm working on
+### 🔨 What I'm learning and building
 
-- **[Auditorias](https://github.com/carlosaustriaco/Auditorias)** — a Python desktop application built with PySide6 to support tax auditing through fiscal data processing, analysis, and reporting.
 - **Backend development** — expanding my knowledge of APIs, SQL, PostgreSQL, FastAPI, and software architecture.
 
 ### 🛠️ Technologies
